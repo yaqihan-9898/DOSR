@@ -1,4 +1,4 @@
-Dataset for Oriented Ship Recognition (DOSR)
+DOSR
 ==
 I. Introduction
 --
