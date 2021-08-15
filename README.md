@@ -2,6 +2,7 @@
 Dataset for Oriented Ship Recognition (DOSR)
 ------
 
+Our paper "Fine-Grained Recognition for Oriented Ship Against Complex Scenes in Optical Remote in Remote Sensing Images" is under submission. We decided to publish our dataset in advance.
 
 I. Introduction
 --
