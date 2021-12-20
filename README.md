@@ -2,7 +2,7 @@
 Dataset for Oriented Ship Recognition (DOSR)
 ------
 
-Our paper "Fine-Grained Recognition for Oriented Ship Against Complex Scenes in Optical Remote in Remote Sensing Images" is under submission. We decided to publish our dataset in advance.
+This dataset has been published in our paper [Fine-Grained Recognition for Oriented Ship Against Complex Scenes in Optical Remote in Remote Sensing Images][1], doi:10.1109/TGRS.2021.3123666. Related ship recognition code is published on [here][2]
 
 I. Introduction
 --
@@ -63,7 +63,9 @@ All images are annotated in VOC format. Each instance is represented by an eight
 
 III. How to obtain
 --
-You can get DOSR at (1) [Google Drive][1] or (2) [Baidu Netdisk][2] with access code **1596**
+You can get DOSR at (1) [Google Drive][3] or (2) [Baidu Netdisk][4] with access code **1596**
 
-[1]:https://drive.google.com/file/d/1X0vKWP7TlGK_4kiVVGMVSUbEhZoFT-l3/view?usp=sharing
-[2]: https://pan.baidu.com/s/1I7N0I_y2en2_PyYhMzuScg
+[1]: https://ieeexplore.ieee.org/document/9591580
+[2]:https://github.com/yaqihan-9898/EIRNet
+[3]:https://drive.google.com/file/d/1X0vKWP7TlGK_4kiVVGMVSUbEhZoFT-l3/view?usp=sharing
+[4]: https://pan.baidu.com/s/1I7N0I_y2en2_PyYhMzuScg
