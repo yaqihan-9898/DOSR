@@ -45,7 +45,7 @@ Fig.2 shows several typical scenes in DOSR such as small scene, small and dense 
 
 
 <div align=center><img width="900" src="https://github.com/yaqihan-9898/DOSR/blob/main/Typical%20scenes.png"/></div>
-<p align="center">Fig. 3 Typical Scenes in DOSR</p>
+<p align="center">Fig. 2 Typical Scenes in DOSR</p>
 
 II. Annotations
 --
